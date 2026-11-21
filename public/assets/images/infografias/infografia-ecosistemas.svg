@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" width="1200" height="800">
+  <defs>
+    <radialGradient id="bg-grad2" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#18080c"/>
+      <stop offset="60%" stop-color="#0e0406"/>
+      <stop offset="100%" stop-color="#060203"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#bg-grad2)"/>
+  
+  <rect x="50" y="50" width="1100" height="60" fill="none" stroke="#c80a1e" stroke-width="1.5" rx="4"/>
+  <text x="75" y="87" font-family="monospace" font-size="14" font-weight="bold" fill="#c80a1e" letter-spacing="2">// INFOGRAFIA EDITORIAL 02: CARTOGRAFIA ECOSISTEMICA</text>
+  <text x="1080" y="87" font-family="monospace" font-size="12" fill="#ffffff" opacity="0.7" text-anchor="end">DIAGNOSTICO TERRITORIAL</text>
+
+  <g transform="translate(80, 150)">
+    <rect width="1040" height="560" fill="rgba(0,0,0,0.6)" stroke="rgba(255,255,255,0.1)" rx="8"/>
+    
+    <g transform="translate(40, 50)">
+      <rect width="280" height="440" fill="rgba(200,10,31,0.08)" stroke="#c80a1e" rx="6"/>
+      <text x="20" y="35" font-family="monospace" font-size="12" font-weight="bold" fill="#c80a1e">ETAPA 01: MATRIZ DE ORIGEN</text>
+      <circle cx="140" cy="150" r="70" fill="none" stroke="#c80a1e" stroke-width="2"/>
+      <path d="M 90 150 L 190 150 M 140 100 L 140 200" stroke="#c80a1e" stroke-width="1"/>
+      <text x="140" y="260" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">Muestras Censadas</text>
+      <text x="140" y="285" font-family="monospace" font-size="11" fill="#aaa" text-anchor="middle">740 Unidades</text>
+    </g>
+
+    <g transform="translate(380, 50)">
+      <rect width="280" height="440" fill="rgba(200,10,31,0.14)" stroke="#c80a1e" rx="6"/>
+      <text x="20" y="35" font-family="monospace" font-size="12" font-weight="bold" fill="#c80a1e">ETAPA 02: DIAGRAMACION</text>
+      <polygon points="60,320 140,140 220,320" fill="none" stroke="#c80a1e" stroke-width="2"/>
+      <text x="140" y="260" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">Taxonomia y Jerarquias</text>
+      <text x="140" y="285" font-family="monospace" font-size="11" fill="#aaa" text-anchor="middle">Reticula Modular Suiza</text>
+    </g>
+
+    <g transform="translate(720, 50)">
+      <rect width="280" height="440" fill="rgba(200,10,31,0.22)" stroke="#c80a1e" rx="6"/>
+      <text x="20" y="35" font-family="monospace" font-size="12" font-weight="bold" fill="#c80a1e">ETAPA 03: SOCIALIZACION</text>
+      <circle cx="140" cy="150" r="50" fill="#c80a1e"/>
+      <text x="140" y="156" font-family="monospace" font-size="18" font-weight="bold" fill="#fff" text-anchor="middle">100%</text>
+      <text x="140" y="260" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">Comprension Ciudadana</text>
+      <text x="140" y="285" font-family="monospace" font-size="11" fill="#aaa" text-anchor="middle">Soporte Fisico + Poster</text>
+    </g>
+  </g>
+</svg>

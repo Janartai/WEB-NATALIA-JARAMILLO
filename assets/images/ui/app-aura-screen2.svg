@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 900" width="420" height="900">
+  <rect width="420" height="900" fill="#0c0608"/>
+  <text x="35" y="45" font-family="sans-serif" font-size="14" font-weight="bold" fill="#fff">9:41</text>
+  <rect x="375" y="34" width="20" height="12" rx="3" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <rect x="377" y="36" width="12" height="8" rx="1.5" fill="#fff"/>
+
+  <text x="30" y="95" font-family="monospace" font-size="11" fill="#c80a1e">// SESION BINAURAL</text>
+  <text x="30" y="125" font-family="sans-serif" font-size="24" font-weight="900" fill="#fff">Induccion Alfa</text>
+
+  <g transform="translate(40, 220)">
+    <rect width="340" height="280" fill="#16080b" stroke="#c80a1e" stroke-width="1" rx="24"/>
+    <g transform="translate(30, 140)">
+      <line x1="10" y1="-30" x2="10" y2="30" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="25" y1="-60" x2="25" y2="60" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="40" y1="-40" x2="40" y2="40" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <line x1="55" y1="-80" x2="55" y2="80" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="70" y1="-100" x2="70" y2="100" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="85" y1="-50" x2="85" y2="50" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <line x1="100" y1="-70" x2="100" y2="70" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="115" y1="-90" x2="115" y2="90" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="130" y1="-40" x2="130" y2="40" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <line x1="145" y1="-110" x2="145" y2="110" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="160" y1="-80" x2="160" y2="80" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="175" y1="-50" x2="175" y2="50" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <line x1="190" y1="-90" x2="190" y2="90" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="205" y1="-60" x2="205" y2="60" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="220" y1="-40" x2="220" y2="40" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+      <line x1="235" y1="-80" x2="235" y2="80" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+      <line x1="250" y1="-30" x2="250" y2="30" stroke="#c80a1e" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <text x="170" y="250" font-family="monospace" font-size="12" fill="#fff" text-anchor="middle">14:20 / 45:00 MIN</text>
+  </g>
+
+  <g transform="translate(50, 560)">
+    <circle cx="160" cy="40" r="36" fill="#c80a1e"/>
+    <rect x="150" y="28" width="8" height="24" fill="#fff" rx="2"/>
+    <rect x="164" y="28" width="8" height="24" fill="#fff" rx="2"/>
+    <circle cx="60" cy="40" r="20" fill="#1c0c10"/>
+    <circle cx="260" cy="40" r="20" fill="#1c0c10"/>
+  </g>
+</svg>
